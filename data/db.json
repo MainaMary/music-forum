@@ -1,0 +1,22 @@
+{
+    "postsData": [
+        {
+            "title": "Midnight Train",
+            "body": "Lorem ipsum lorem ipsum Lorem ipsum lorem ipsum Lorem ipsum lorem ipsum",
+            "author": "Sauti soul",
+            "id" : 1
+        },
+        {
+            "title": "Midnight Train",
+            "body": "Lorem ipsum lorem ipsum Lorem ipsum lorem ipsum Lorem ipsum lorem ipsum",
+            "author": "Sauti soul",
+            "id" : 2
+        },
+        {
+            "title": "Midnight Train",
+            "body": "Lorem ipsum lorem ipsum Lorem ipsum lorem ipsum Lorem ipsum lorem ipsum",
+            "author": "Sauti soul",
+            "id" : 3
+        }
+    ]
+}
