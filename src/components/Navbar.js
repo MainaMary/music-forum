@@ -1,13 +1,13 @@
 import React from 'react'
 import styled  from 'styled-components'
-
+import {Link} from "react-router-dom"
 const Navbar = () => {
     return (
         <Nav>
          <h1>Music App</h1>
          <Links>
-         <a href='/'>Home</a>
-         <a href='/create'>New Post</a>
+         <Link to='/'>Home</Link>
+         <Link to='/create'>New Post</Link>
          </Links>
         </Nav>
             
